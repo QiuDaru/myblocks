@@ -1,7 +1,7 @@
-Blockly.Blocks['nft'] = {
+Blockly.Blocks['twoblockly'] = {
   init: function() {
     this.appendDummyInput()
-        .appendField("NFT");
+        .appendField("twoblockly");
     this.setPreviousStatement(true, null);
     this.setNextStatement(true, null);
     this.setColour(230);

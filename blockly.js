@@ -1,6 +1,6 @@
 {
-  "types": ["write_to_testnet"],
-  "category": "Web3",
+  "types": ["twoblockly"],
+  "category": "toolbox",
   "scripts": [
     "blockly/blocks.js",
     "blockly/javascript.js"
