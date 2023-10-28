@@ -1,7 +1,8 @@
-Blockly.Blocks['twoblockly'] = {
+Blockly.Blocks['threeblockly'] = {
   init: function() {
-    this.appendDummyInput()
-        .appendField("新自訂積木");
+    this.appendValueInput("NAME")
+        .setCheck(null)
+        .appendField("請求王爺讓我這個積木一次過");
     this.setPreviousStatement(true, null);
     this.setNextStatement(true, null);
     this.setColour(230);
