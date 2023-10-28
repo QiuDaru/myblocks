@@ -1,7 +1,5 @@
-Blockly.JavaScript['twoblockly'] = function(block) {
-  var value_value = Blockly.JavaScript.valueToCode(block, 'value', Blockly.JavaScript.ORDER_ATOMIC);
-  // TODO: Assemble JavaScript into code variable.
+javascript.javascriptGenerator.forBlock['twoblockl'] = function(block, generator) {
+  // TODO: Assemble javascript into code variable.
   var code = 'console.log("hello");\n';
-  
   return code;
 };
