@@ -1,7 +1,7 @@
 Blockly.Blocks['twoblockly'] = {
   init: function() {
     this.appendDummyInput()
-        .appendField("twoblockly");
+        .appendField("新自訂積木");
     this.setPreviousStatement(true, null);
     this.setNextStatement(true, null);
     this.setColour(230);
