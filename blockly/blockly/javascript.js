@@ -27,7 +27,7 @@ Blockly.JavaScript['threeblockly'] = function(block) {
       },
       {
         "trait_type": "出貨時間",
-        "value": "2024/1/7"
+        "value": "2024/1/28"
       }
     ]
   }),
